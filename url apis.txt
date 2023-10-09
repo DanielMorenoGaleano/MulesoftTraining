@@ -1,3 +1,7 @@
 PokeAPI, OMDB API, JsonPlaceholder api, NASA API, Jikan api, OpenWeatherMap API
 
 https://www.w3.org/2003/05/soap-envelope/
+
+Esta url es de MYSQL
+
+https://www.mysql.com
