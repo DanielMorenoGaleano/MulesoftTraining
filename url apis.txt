@@ -5,3 +5,8 @@ https://www.w3.org/2003/05/soap-envelope/
 Esta url es de git merge
 
 https://www.atlassian.com/es/git/tutorials/using-branches/git-merge
+
+
+Este es el editor de video:
+
+https://obsproject.com/welcome
